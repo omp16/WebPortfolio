@@ -1,13 +1,14 @@
 * {
 font-family: Arial, Verdana, sans-serif;
-color: ##533c6d;
+color-top: #222222;
 text-align: center;}
 #nav, #feature, .article, #footer {
-background-color: #8c6aa0;
+background-color: #55a8a3;
 margin-top: 20px;
+margin-article: 300px;
 padding: 10px 0px 5px 0px;}
 #feature, .article {
-height: 175px;}
+height: 450px;}
 li {
 display: inline;
-padding: 5px;}
+padding: 5px;
